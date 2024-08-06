@@ -1,10 +1,10 @@
-# Hexaverse AI Labs
+# Hexaverse AI Inc
 
-Welcome to Hexaverse AI Labs! We are a dynamic organization dedicated to pushing the boundaries of artificial intelligence and data science. Our mission is to empower individuals and businesses with innovative AI solutions that drive growth and transformation.
+Welcome to Hexaverse AI Inc! We are a dynamic organization dedicated to pushing the boundaries of artificial intelligence and data science. Our mission is to empower individuals and businesses with innovative AI solutions that drive growth and transformation.
 
 ## About Us
 
-At Hexaverse AI Labs, we specialize in harnessing the power of AI and data to solve complex problems across various industries. From predictive analytics to natural language processing, we offer a range of cutting-edge services designed to help our clients thrive in the digital age.
+At Hexaverse AI Inc, we specialize in harnessing the power of AI and data to solve complex problems across various industries. From predictive analytics to natural language processing, we offer a range of cutting-edge services designed to help our clients thrive in the digital age.
 
 ## Our Goals
 
@@ -17,14 +17,11 @@ At Hexaverse AI Labs, we specialize in harnessing the power of AI and data to so
 
 We'd love to hear from you! Whether you have a project in mind or just want to learn more about what we do, feel free to reach out through any of the following channels:
 
-- **Website**: [Hexaverse AI Labs](https://dataverselabs.ai/)
-- **YouTube**: [DataVerse Labs Channel](https://www.youtube.com/@DataVerse-Labs)
-- **Email**: <contact@hexaverse.dev>
-- **LinkedIn**: [Hexaverse AI Labs](https://www.linkedin.com/company/dataverse-ai-labs)
-- **Twitter**: [@HexaverseAI](https://twitter.com/)
+- **Website**: [Hexaverse AI Inc](https://hexaverse.dev/)
+- **Email**: <info@hexaverse.dev>
 
 ## Contribute
 
 Interested in contributing to our projects or joining our team? Check out our [Contribution Guidelines](CONTRIBUTING.md) and [Job Opportunities](JOBS.md) to get started!
 
-Thank you for your interest in Hexaverse AI Labs. Let's unlock the potential of AI together!
+Thank you for your interest in Hexaverse AI Inc. Let's unlock the potential of AI together!
